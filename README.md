@@ -1,5 +1,7 @@
 # MATP
+## Model Architecture
 
+![MATP](F:\研究生\研究生\MATP\MATP.png)
 ## Description
 
 1. train.py: 训练文件
